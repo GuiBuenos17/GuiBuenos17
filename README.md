@@ -31,4 +31,4 @@
 <br/>
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-buenos-ayres-de-brito-663579239/)](https://www.linkedin.com/in/guilherme-buenos-ayres-de-brito-663579239/)
